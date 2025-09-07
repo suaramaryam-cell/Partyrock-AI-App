@@ -9,7 +9,7 @@ PARTYROCK AI APP
  - Learning & Troubleshooting**: Learning advisors and problem-solving assistants for cloud computing  
 
  OVERVIEW
- The purpose of this PartyRock AI app was to demonstrate the speedy development, testing, and dissemination of non-coding cloud tools.  PartyRock is helpful for **prototyping ideas, productivity hacks, and learning aids** because it uses **generative AI** to assist users in creating solutions without writing code.  
+ The purpose of this PartyRock AI app was to demonstrate the speedy development, testing, and dissemination of non-coding cloud tools.  PartyRock is helpful for **prototyping ideas, productivity hacks, and learning aids** because it uses **generative AI** to assist users in creating solutions.   
 This app, which is a component of my cloud engineering journey, demonstrates how AI-powered apps can improve **personal tasks** and **professional workflows**.  
 
 <img width="739" height="230" alt="Image" src="https://github.com/user-attachments/assets/4c8d3c34-edeb-4343-b536-afca9ff44d03" />
